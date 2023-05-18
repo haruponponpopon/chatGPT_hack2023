@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+tiktoken
+fastapi
+uvicorn[standard]
+python-multipart
